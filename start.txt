@@ -1,0 +1,5 @@
+:wq
+B
+B
+
+Test GIT QUICK start DEmo
